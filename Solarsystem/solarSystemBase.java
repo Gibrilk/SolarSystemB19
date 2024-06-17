@@ -1,4 +1,4 @@
-package SolarSystem;
+package SolarSystem.Solarsystem;
 
 public class solarSystemBase {
 
